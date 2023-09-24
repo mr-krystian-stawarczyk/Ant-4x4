@@ -52,7 +52,7 @@ const LiczbaKlientow = () => {
 						className="bg-dark m-5 mx-auto bg-transparent"
 						style={{ width: "18rem" }}
 					>
-						<h3>Dołącz do zadowolonych klientów ! </h3>
+						<h3 className="text-white">Dołącz do zadowolonych klientów ! </h3>
 					</Card>
 				</Col>{" "}
 				<Col md={4} className="mx-auto">
@@ -62,7 +62,7 @@ const LiczbaKlientow = () => {
 						style={{ width: "18rem" }}
 					>
 						<Card.Body>
-							<h4>Zadowolonych klientów: </h4>
+							<h4 className="text-white">Zadowolonych klientów: </h4>
 							<h3>
 								<animated.span>
 									{animatedPropsDuzy.number.to((number) => number.toFixed(0))}
@@ -78,7 +78,7 @@ const LiczbaKlientow = () => {
 						style={{ width: "18rem" }}
 					>
 						<Card.Body>
-							<h4>Realizacje: </h4>
+							<h4 className="text-white">Realizacje: </h4>
 							<h3>
 								<animated.span>
 									{animatedPropsMaly1.number.to((number) => number.toFixed(0))}

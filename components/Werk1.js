@@ -165,8 +165,7 @@ function Werk1() {
 								src={image}
 								width={400}
 								height={400}
-								layout="responsive"
-								className=" shadow-lg"
+								className="responsive-image shadow-lg"
 								alt="Sanity Image"
 								priority
 							/>
