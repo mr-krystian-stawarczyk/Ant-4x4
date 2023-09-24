@@ -11,7 +11,7 @@ const Products = () => {
 	return (
 		<>
 			<Head>
-				<title>Sklep</title>
+				<title>ANT 4x4 Sklep Offroad</title>
 			</Head>
 			<Produkty1 />
 			<Produkty2 />

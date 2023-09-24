@@ -88,10 +88,12 @@ function Header4() {
 	const [image, setImage] = useState(null);
 
 	const sectionPaths = {
-		contact: "contact", // Mapuj wybór do odpowiednich ścieżek
+		contact: "contact",
 		about: "about",
 		blog: "blog",
 		products: "products",
+		realizacje: "realizacje",
+		uslugi: "uslugi",
 	};
 
 	useEffect(() => {

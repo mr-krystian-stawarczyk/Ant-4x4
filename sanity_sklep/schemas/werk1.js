@@ -126,10 +126,11 @@ export default {
       options: {
         list: [
           {title: 'Kontakt', value: 'contact'},
-          {title: 'Uber Uns', value: 'about'},
-          {title: 'Tipps', value: 'blog'},
-          {title: 'Dienste', value: 'dienste'},
-          {title: 'Werk', value: 'werk'},
+          {title: 'O Nas', value: 'about'},
+          {title: 'Porady', value: 'blog'},
+          {title: 'Realizacje', value: 'realizacje'},
+          {title: 'Usługi', value: 'uslugi'},
+          {title: 'Produkty', value: 'products'},
         ],
       },
       description: 'Wybierz docelową sekcję do ktorej wysyla przycisk.',

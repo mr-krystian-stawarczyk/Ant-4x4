@@ -5,6 +5,8 @@ import dienste4 from './dienste4'
 import footer from './footer'
 import kontakt1 from './kontakt1'
 import kontakt2 from './kontakt2'
+import liczbaKlientow from './liczbaKlientow'
+
 import navbar from './navbar'
 import onas1 from './onas1'
 import onas2 from './onas2'
@@ -49,4 +51,5 @@ export const schemaTypes = [
   dienste4,
   werk1,
   werk2,
+  liczbaKlientow,
 ]

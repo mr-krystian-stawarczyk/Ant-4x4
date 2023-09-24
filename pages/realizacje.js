@@ -7,7 +7,7 @@ function werk() {
 	return (
 		<div className="">
 			<Head>
-				<title>Realizacje</title>
+				<title>ANT 4x4 Nasze Realizacje</title>
 				<meta name="" content="" />
 				<meta name="robots" content="index, follow" />
 			</Head>

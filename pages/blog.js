@@ -9,9 +9,7 @@ function blog() {
 	return (
 		<div className="">
 			<Head>
-				<title>
-					Tipps, Blog, Webseite Erstellen in Nettetal | Pixel Genie Webagentur
-				</title>
+				<title>ANT 4x4 Bezcenne Porady</title>
 				<meta
 					name="description"
 					content="Pixel-Genie: Unser Blog für Webdesign, Webseite Erstellen, Webentwicklung, Online-Marketing und mehr. Lesen Sie unsere neuesten Artikel und erfahren Sie mehr über die neuesten Trends und Entwicklungen in der Online-Welt."

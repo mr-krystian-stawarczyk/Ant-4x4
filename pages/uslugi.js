@@ -8,7 +8,7 @@ function dienste() {
 	return (
 		<div className="">
 			<Head>
-				<title>Usługi</title>
+				<title>ANT 4x4 Usługi</title>
 				<meta name="" content="" />
 				<meta name="robots" content="index, follow" />
 			</Head>

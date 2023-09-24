@@ -9,7 +9,7 @@ function about() {
 	return (
 		<div className=" ">
 			<Head>
-				<title>O Nas</title>
+				<title>ANT 4x4 O Nas</title>
 				<meta
 					name="description"
 					content="Pixel-Genie: Erfahren Sie mehr über unser Team und unsere Erfahrung in Webdesign und Online-Marketing in Nettetal. Erfahren Sie mehr über unsere Philosophie und unsere Arbeitsweise."

@@ -12,13 +12,13 @@ import Header4 from "@/components/Header4";
 import Header5 from "@/components/Header5";
 import Header6 from "@/components/Header6";
 import Header7 from "@/components/Header7";
-
+import LiczbaKlientow from "@/components/LiczbaKlientow";
 export default function Home() {
 	const { theme } = useTheme();
 	return (
 		<>
 			<Head>
-				<title>E-Commerce</title>
+				<title>ANT 4x4 Offroad</title>
 				<meta name="" content="" />
 				<meta name="robots" content="index, follow" />
 			</Head>
@@ -29,6 +29,8 @@ export default function Home() {
 			<Header3 />
 			<Header4 />
 			<Header5 />
+			<LiczbaKlientow />
+
 			<Header6 />
 		</>
 	);

@@ -8,7 +8,7 @@ function contact() {
 	return (
 		<div className="">
 			<Head>
-				<title>Kontakt</title>
+				<title>ANT 4x4 Kontakt</title>
 				<meta name="" content="" />
 				<meta name="robots" content="index, follow" />
 			</Head>

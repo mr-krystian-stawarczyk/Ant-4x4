@@ -133,7 +133,7 @@ const Produkty2 = () => {
 					<Product key={product._id} product={product} />
 				))}
 			</Row>
-			<Row className="text-center">
+			<Row className="text-center justify-content-center">
 				<Col md={11}>
 					{!showMore && products.length > visibleProducts && (
 						<Button onClick={handleShowMore} className="mt-3 btn-dark">

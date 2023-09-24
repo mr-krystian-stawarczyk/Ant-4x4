@@ -133,6 +133,8 @@ export default {
           {title: 'Kontakt', value: 'contact'},
           {title: 'O Nas', value: 'about'},
           {title: 'Porady', value: 'blog'},
+          {title: 'Realizacje', value: 'realizacje'},
+          {title: 'Usługi', value: 'uslugi'},
           {title: 'Produkty', value: 'products'},
         ],
       },
