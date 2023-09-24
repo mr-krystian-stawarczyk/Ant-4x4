@@ -64,7 +64,7 @@ const LiczbaKlientow = () => {
 						<Card.Body>
 							<h4 className="text-white">Zadowolonych klientów: </h4>
 							<h3>
-								<animated.span>
+								<animated.span className="text-white">
 									{animatedPropsDuzy.number.to((number) => number.toFixed(0))}
 								</animated.span>
 							</h3>
@@ -80,7 +80,7 @@ const LiczbaKlientow = () => {
 						<Card.Body>
 							<h4 className="text-white">Realizacje: </h4>
 							<h3>
-								<animated.span>
+								<animated.span className="text-white">
 									{animatedPropsMaly1.number.to((number) => number.toFixed(0))}
 								</animated.span>
 							</h3>
